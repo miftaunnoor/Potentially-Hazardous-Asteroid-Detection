@@ -1,0 +1,1 @@
+This project was developed as part of my CSE422: Artificial Intelligence course. It focuses on detecting potentially hazardous asteroids using various machine learning techniques. I worked with astronomical datasets to build and evaluate models like Random Forest, KNN, and SVM.
